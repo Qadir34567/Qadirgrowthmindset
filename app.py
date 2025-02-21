@@ -37,6 +37,6 @@ else:
       st.info("Big or small, every acheivment counts! Share on now")
 
 #  footer
-st.write("-")
+st.write("- - -")
 st.write(" Keep believing in yourself. Growth is a journey, not a destination! ")
-st.write("** Created by Mehak Alamgir**")
+st.write("** Created by Abdul Qadir**")
