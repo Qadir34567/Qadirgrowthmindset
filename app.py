@@ -15,7 +15,7 @@ st.header("What's Your Challenge Today?")
 user_input = st.text_input("Describe a challenge you're facing:")
   #condition
 if user_input:
-        st.success(f" You're facing: (user_input). Keep pushing forward towords your goal!")
+        st.success(f" You're facing: {user_input}. Keep pushing forward towords your goal!")
 else:
     st.warning("Tell as about your Challenge to get started!")
 
