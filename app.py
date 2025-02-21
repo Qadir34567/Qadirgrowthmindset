@@ -43,4 +43,4 @@ else:
 #  footer
 st.write("- - -")
 st.write(" Keep believing in yourself. Growth is a journey, not a destination! ")
-st.write("** Created by Abdul Qadir**")
+st.write("Created by Abdul Qadir")
