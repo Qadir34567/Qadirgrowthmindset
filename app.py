@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="growth mindset project", page_icon="★")
 st.title("Growth Mindset Chellange: Web App with Streamlit")
 
-st.header("Welcome to your Growth Mindset Jpurney!")
+st.header("Welcome to your Growth Mindset Journey!")
 st.write("This is a simple web app that will help you to develop a growth mindset. The app will provide you with a new chellange every day. You can also track your progress and see how you are doing.")
 
 # qoute section
