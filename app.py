@@ -5,11 +5,12 @@ st.set_page_config(page_title="growth mindset project", page_icon="★")
 st.title("Growth Mindset Chellange: Web App with Streamlit")
 
 st.header("💪Welcome to your Growth Mindset Journey!")
-st.write("The only way to achieve the impossible is to believe it is possible. - Charles Kingsleigh")
+st.write("This is a simple web app that will help you to develop a growth mindset. The app will provide you with a new chellange every day. You can also track your progress and see how you are doing.")
 
 # qoute section
 st.subheader("Today's growth mindset qoute:")
-st.write("Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill")
+st.write("The only way to achieve the impossible is to believe it is possible. - Charles Kingsleigh")
+
 
 st.header("What's Your Challenge Today?")
 user_input = st.text_input("Describe a challenge you're facing:")
