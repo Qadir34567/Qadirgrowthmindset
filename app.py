@@ -4,13 +4,16 @@ import streamlit as st
 st.set_page_config(page_title="growth mindset project", page_icon="★")
 st.title("Growth Mindset Chellange: Web App with Streamlit")
 
-st.header("💪Welcome to your Growth Mindset Journey!")
+st.header("Welcome to your Growth Mindset Journey!")
 st.write("This is a simple web app that will help you to develop a growth mindset. The app will provide you with a new chellange every day. You can also track your progress and see how you are doing.")
 
 # qoute section
 st.subheader("Today's growth mindset qoute:")
 st.write("The only way to achieve the impossible is to believe it is possible. - Charles Kingsleigh")
 
+#  for motivation
+st.header("Unleash Your Potential")
+st.write("Embark on a transformative adventure of self-discovery and limitless potential, where every challenge is an opportunity to grow, learn, and unleash your inner greatness!""Embark on a transformative adventure of self-discovery and limitless potential, where every challenge is an opportunity to grow, learn, and unleash your inner greatness!")
 
 st.header("What's Your Challenge Today?")
 user_input = st.text_input("Describe a challenge you're facing:")
